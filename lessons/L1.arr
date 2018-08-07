@@ -1,4 +1,5 @@
 # Lekcja 1
+# Podstawy
 
 # String (czyli napis), to inaczej łańcuch znaków
 "prosty przykład"
@@ -6,10 +7,10 @@
 # Liczby
 10
 
-# Funkcja dodawania
+# Operator dodawania
 2 + 3
 
-# Funkcja mnożenia
+# Operator mnożenia
 23424234 * 345345345
 
 # Zadanie 1
