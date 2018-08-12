@@ -25,4 +25,4 @@ isosceles-triangle(120, 40, "outline", "black")
 text("Mike Wazowski", 80, "orange")
 
 # Zadanie
-# Stwórz po jednym przykładzie dla każdej figury i własny napis
+# Stwórz po jednym przykładzie dla każdej figury i własny napis.

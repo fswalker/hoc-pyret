@@ -1,17 +1,17 @@
-# Lekcja 5
+# Lekcja 7
 # Łączymy obrazki
 
 include image
 
 # Zadanie 1
-# Funkcja beside układa obrazki obok siebie
+# Funkcja beside układa obrazki obok siebie.
 beside(
   triangle(50, "solid", "orange"),
   triangle(50, "solid", "blue")
 )
 
-# Poniżej nazwiemy rysunek oka: eye
-# Czyli przypisaliśmy rysunek do stałej eye
+# Poniżej nazwiemy rysunek oka: eye.
+# Czyli przypisaliśmy rysunek do stałej eye.
 eye =
   overlay(
     circle(20, "solid", "black"),
@@ -19,15 +19,15 @@ eye =
   )
 
 # Zadanie 2
-# Narysuj dwoje oczu obok siebie
+# Narysuj dwoje oczu obok siebie.
 beside(
   eye,
   eye
 )
 
 # Zadanie 3
-# Spróbuj umieścić kwadrat o boku 30 pomiędzy oczy
-# Niestety funkcja beside potrafi zmieścić tylko 2 argumenty
+# Spróbuj umieścić kwadrat o boku 30 pomiędzy oczy.
+# Niestety funkcja beside potrafi zmieścić tylko 2 argumenty.
 # Co teraz?
 
 square-eye =
@@ -42,6 +42,6 @@ beside(
 )
 
 # Zadanie 4
-# Magiczna sztuczka: jak sprawić, aby obrazek stał się niewidzialny
-# Trzeba użyć specjalnego przezroczystego koloru: "transparent"
-# Zmień kolor kwadratu powyżej na "transparent"
+# Magiczna sztuczka: jak sprawić, aby obrazek stał się niewidzialny.
+# Trzeba użyć specjalnego przezroczystego koloru: "transparent".
+# Zmień kolor kwadratu powyżej na "transparent".
