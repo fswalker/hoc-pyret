@@ -1,3 +1,4 @@
+# https://goo.gl/FNqRRt
 # Lekcja 3
 # Bugi - quiz
 # Popraw wszystkie błędy, jakie uda Ci się znaleźć! :)
