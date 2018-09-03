@@ -16,8 +16,8 @@ Ania, Kasia, Natalia, Kamila, Kasper, Konrad, Michał
 
 ## Piracki plan
 
-### Poszukiwanie zaginionej mapy skarbów
+#### Poszukiwanie zaginionej mapy skarbów
 
-- 45 min - podstawy programowania
-- 10 min - piracka siesta
-- 45 min - dalsza przygoda z programowaniem
+1. 45 min - podstawy programowania
+1. 10 min - piracka siesta
+1. 45 min - dalsza przygoda z programowaniem
