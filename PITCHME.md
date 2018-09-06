@@ -63,11 +63,16 @@ Note:
 
 +++
 
-### Język programowania Pyret
+### Język programowania: 
 
-[https://code.pyret.org](https://code.pyret.org)
+![Pyret](https://www.pyret.org/img/pyret-banner.png)
+
+[Strona internetowa](https://www.pyret.org/)
+
+Edytor - [https://code.pyret.org](https://code.pyret.org)
 
 Note:
+- **otwórzmy przeglądarkę!!**
 - opis edytora
 - język angielski!
 - komunikaty błędów
@@ -87,7 +92,7 @@ Note:
 
 #### String - tekst, napis
 
-```pyret
+```
 "Tekst na dobry początek"
 "Drugi string"
 ```
@@ -96,7 +101,7 @@ Note:
 
 #### Liczby
 
-```pyret
+```
 1
 2
 3
@@ -110,7 +115,7 @@ Note:
 
 #### Działania
 
-```pyret
+```
 2 + 3
 8 * 9
 10 - 7
@@ -119,10 +124,12 @@ Note:
 
 +++ 
 
-#### Zadanie 1
+#### Zadania
 
 1. Napisz swoje imię jako string.
 1. Ile masz lat? Napisz liczbę.
-1. Jaki będzie wynik działania: `23424234 * 345345345` ?
-1. * Oblicz, ile sekund mieści się w godzinie?
+1. Jaki będzie wynik działania:
+
+   `23424234 * 345345345` ?
+1. &#42; Oblicz, ile sekund mieści się w godzinie?
 
