@@ -61,6 +61,18 @@ Note:
 Note:
 - gif, obrazek - wypływający okręt
 
++++
+
+### Język programowania Pyret
+
+[https://code.pyret.org](https://code.pyret.org)
+
+Note:
+- opis edytora
+- język angielski!
+- komunikaty błędów
+- załoga pomoże
+
 ---
 
 ## Lekcja 1
@@ -73,18 +85,44 @@ Note:
 
 +++
 
-### String - tekst, napis
+#### String - tekst, napis
 
 ```pyret
 "Tekst na dobry początek"
+"Drugi string"
 ```
 
 +++
 
-### Liczby
+#### Liczby
 
 ```pyret
 1
 2
 3
 ```
+
+Note:
+- komputer to też zaawansowany kalkulator
+- kto wie co to jest kalkulator?
+
++++
+
+#### Działania
+
+```pyret
+2 + 3
+8 * 9
+10 - 7
+4 / 2
+```
+
++++ 
+
+#### Zadanie 1
+
+1. Napisz swoje imię jako string.
+1. Ile masz lat? Napisz liczbę.
+1. Jaki będzie wynik działania: `23424234 * 345345345` ?
+1. * Oblicz, ile sekund mieści się w godzinie?
+
