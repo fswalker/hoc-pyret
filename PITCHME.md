@@ -6,7 +6,9 @@
 
 ### Piracka załoga Relativity:
 
-Ania, Kasia, Natalia, Kamila, Kasper, Konrad, Michał
+Note:
+- Powitanie
+- Przedstawiamy załogę
 
 +++
 
