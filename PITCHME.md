@@ -133,3 +133,107 @@ Note:
    `23424234 * 345345345` ?
 1. &#42; Oblicz, ile sekund mieści się w godzinie?
 
++++
+
+#### Podsumowanie
+
+- różne typy danych
+- znamy 2 typy danych:
+
+  - string, czyli napis
+  - liczby
+
+- komputer potrafi liczyć
+- zna działania takiej jak: \+, \-, \*, /
+
+Note:
+- w programowaniu występują różne typy danych
+- 
+
+---
+
+## Lekcja 2
+### Rysowanie
+
+Note:
+- otwórz edytor, pokaż przykład od razu
+
++++
+
+### Komentarz
+
+- wiadomość dla programisty
+- zapisana w kodzie
+- ukryta dla komputera
+- komputer ją ignoruje
+
++++
+
+### Komentarz - przykład
+
+```
+# To jest komentarz
+"A to nie"
+7
+324 # Tutaj też może być komentarz
+```
+
++++
+
+### Biblioteka
+
++++
+
+#### TODO obrazek biblioteki tutaj
+
+### ???
+
+Note:
+- co to jest biblioteka?
+- kto tam chodzi, co robi?
+- student musi napisać wypracowanie
+- bierze kilka innych książek
+- czyta i składa swoją pracę z różnych cytatów i fragmentów
+
++++
+
+Biblioteka do rysowania obrazków: `image`
+
+Trzeba rzucić zaklęcie: `include`
+
+Wtedy możemy korzystać z wszystkich funkcji w bibliotece:
+
+```
+include image
+
+star
+```
+
++++
+
+### Funkcja
+
+- magiczne pudełko/zwierzątko
+- trzeba je nakarmić
+- wtedy coś robi, albo daje rezultat (daj głos!)
+- przyjumje ściśle określone argumenty (jedzenie)
+
+Note:
+- obrazek funkcji?
+
++++
+
+### TODO obrazek funkcji z objaśnieniami
+
++++
+
+#### Wymyślmy kilka 
+
+#### przykładowych funkcji
+
+Note:
+- id
+- const
+- +1
+- String.reverse
+
