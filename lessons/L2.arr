@@ -24,3 +24,4 @@ star(50, "outline", "red")
 # Zadanie 4
 # Stwórz więcej gwiazd po prawej stronie w oknie interakcji, tak jak w zadaniu 3.
 # Co się stanie, gdy na koniec klikniesz przycisk Run?
+# Run można uruchomić używając skrótu: Ctrl + Enter
