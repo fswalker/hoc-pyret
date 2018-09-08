@@ -246,4 +246,55 @@ Note:
 - TODO dodać obrazek buga ;)
 - Otwórz L3.arr w przeglądarce!
 
+---
 
+### Lekcja 4
+#### Nowe kształty
+
+Note:
+- widzę ląd!
+- na horyzoncie wyłaniają się nowe kształty
+
++++
+
+#### Geometryczny Quiz
+
++++
+
+Koło
+
+@ul[shapes]
+
+- Circle
+
+@ulend
+
++++
+
+Trójkąt
+
+@ul[shapes]
+
+- Triangle
+
+@ulend
+
++++
+
+Prostokąt
+
+@ul[shapes]
+
+- Rectangle
+
+@ulend
+
++++
+
+Kwadrat
+
+@ul[shapes]
+
+- Square
+
+@ulend
