@@ -237,3 +237,13 @@ Note:
 - +1
 - String.reverse
 
+---
+
+### Lekcja 3
+#### Szukamy bugów
+
+Note:
+- TODO dodać obrazek buga ;)
+- Otwórz L3.arr w przeglądarce!
+
+
