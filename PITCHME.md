@@ -298,3 +298,22 @@ Kwadrat
 - Square
 
 @ulend
+
+---
+
+### Lekcja 5
+#### Łączymy obrazki
+
+Note:
+- TODO obrazek - klocki lego
+- Co zwracają funkcje circle, square, triangle, itp. ?
+- Poznamy funkcję, która łączy dwa obrazki w jeden, nowy obrazek
+
++++
+
+#### Funkcja overlay
+
+```
+include image
+overlay(obrazek1, obrazek2)
+```
