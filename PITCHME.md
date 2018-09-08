@@ -239,8 +239,8 @@ Note:
 
 ---
 
-### Lekcja 3
-#### Szukamy bugów
+## Lekcja 3
+### Szukamy bugów
 
 Note:
 - TODO dodać obrazek buga ;)
@@ -248,8 +248,8 @@ Note:
 
 ---
 
-### Lekcja 4
-#### Nowe kształty
+## Lekcja 4
+### Nowe kształty
 
 Note:
 - widzę ląd!
@@ -301,8 +301,8 @@ Kwadrat
 
 ---
 
-### Lekcja 5
-#### Łączymy obrazki
+## Lekcja 5
+### Łączymy obrazki
 
 Note:
 - TODO obrazek - klocki lego
@@ -315,5 +315,40 @@ Note:
 
 ```
 include image
+
 overlay(obrazek1, obrazek2)
 ```
+
+---
+
+## Lekcja 6
+### Obrazki z internetu
+
++++
+
+Funkcja `image-url` zwraca obrazek z internetu.
+
+Trzeba jej podać jeden argument typu *string*.
+
++++
+
+Funkcja `scale` zmienia (skaluje) rozmiar obrazka.
+
+Przekazujemy jej dwa argumenty:
+
+- ułamek (czyli liczbę)
+- obrazek, którego rozmiar zmieniamy
+
++++
+
+```
+include image
+
+scale(0.5, circle(100, "solid", "green"))
+```
+
++++
+
+Link do obrazka:
+
+[https://goo.gl/sGQheU](https://goo.gl/sGQheU)
