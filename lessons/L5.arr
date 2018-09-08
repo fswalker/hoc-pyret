@@ -19,3 +19,8 @@ overlay(
   circle(20, "solid", "black"),
   circle(100, "outline", "black")
 )
+
+# Zadanie 3
+# Stwórz dowolne dwa obrazki,
+# Ułóż jeden nad drugim, używając funkcji overlay
+# Co się stanie, gdy zmienisz kolejność obrazków w funkcji overlay?
