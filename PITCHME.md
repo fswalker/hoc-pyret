@@ -380,4 +380,19 @@ include image
 beside(obrazek1, obrazek2)
 ```
 
+---
 
+## Lekcja 8
+### Obrazki nad sobą
+
++++
+
+Funkcja `above` układa 2 obrazki nad sobą.
+
+Zwraca ułożone obrazki, jako nowy obrazek.
+
+```
+include image
+
+above(obrazek1, obrazek2)
+```
