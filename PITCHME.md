@@ -372,7 +372,7 @@ Link do obrazka:
 
 Funkcja `beside` układa 2 obrazki obok siebie.
 
-Zwraca ułożone obrazki, jako nowy, większy obrazek.
+Zwraca ułożone obrazki, jako nowy obrazek.
 
 ```
 include image
