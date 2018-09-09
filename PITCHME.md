@@ -328,7 +328,15 @@ overlay(obrazek1, obrazek2)
 
 Funkcja `image-url` zwraca obrazek z internetu.
 
-Trzeba jej podać jeden argument typu *string*.
+Trzeba jej podać adres obrazka,
+
+czyli argument typu *string*.
+
+```
+include image
+
+image-url("https://www.obrazki.com/obrazek.png")
+```
 
 +++
 
@@ -340,6 +348,8 @@ Przekazujemy jej dwa argumenty:
 - obrazek, którego rozmiar zmieniamy
 
 +++
+
+#### Funkcja scale - przykład
 
 ```
 include image
