@@ -352,3 +352,22 @@ scale(0.5, circle(100, "solid", "green"))
 Link do obrazka:
 
 [https://goo.gl/sGQheU](https://goo.gl/sGQheU)
+
+---
+
+## Lekcja 7
+### Obrazki obok siebie
+
++++
+
+Funkcja `beside` układa 2 obrazki obok siebie.
+
+Zwraca ułożone obrazki, jako nowy, większy obrazek.
+
+```
+include image
+
+beside(obrazek1, obrazek2)
+```
+
+
