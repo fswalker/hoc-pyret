@@ -396,3 +396,16 @@ include image
 
 above(obrazek1, obrazek2)
 ```
+
+---
+
+## Lekcja 9
+### Rysujemy flagi
+
++++
+
+![Japonia](presentation/japan.png)
+![Francja](presentation/france.png)
+
+![Niemcy](presentation/germany.png)
+![Włochy](presentation/italy.png)
