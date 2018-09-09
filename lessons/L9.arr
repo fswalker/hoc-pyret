@@ -7,8 +7,8 @@ include image
 # Narysuj flagę Japonii.
 frame(
   overlay(
-    circle(30, "solid", "red"),
-    rectangle(150, 100, "solid", "white")
+    circle(40, "solid", "red"),
+    rectangle(192, 120, "solid", "white")
   )
 )
 
@@ -28,10 +28,10 @@ frame(
 # Narysuj flagę Niemiec.
 frame(
   above(
-    rectangle(192, 30, "solid", "black"),
+    rectangle(192, 40, "solid", "black"),
     above(
-      rectangle(192, 30, "solid", "red"),
-      rectangle(192, 30, "solid", "yellow")
+      rectangle(192, 40, "solid", "red"),
+      rectangle(192, 40, "solid", "yellow")
     )
   )
 )
