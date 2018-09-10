@@ -51,14 +51,13 @@ Note:
 - Dużo praktyki i cierpliwości
 - To zaowocuje - niesamowite efekty
 
----
+---?image=presentation/set_sails.jpg&size=70% auto
 
-### Żagle na maszt!
+---?image=presentation/set_sails.jpg&size=70% auto
 
-### Wypływamy!
+@transition[fade]
 
-Note:
-- gif, obrazek - wypływający okręt
+### @color[white](Żagle na maszt!)
 
 +++
 
