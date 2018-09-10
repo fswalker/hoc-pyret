@@ -26,14 +26,13 @@ Note:
 
 ## Piracki plan
 
-1. podstawy programowania (40 min)
-1. demo 1 (5 min)
-1. piracka siesta (5 min)
-1. dalsza przygoda z programowaniem (40 min)
-1. demo 2 (5 min)
-1. pożegnanie
-
-Note:
+- Podstawy programowania (40 min)
+- Demo 1 (5 min)
+- Piracka siesta (5 min)
+- Dalsza przygoda z programowaniem (40 min)
+- Quiz (10 min)
+- Demo 2 (5 min)
+- Pożegnanie
 
 ---
 
