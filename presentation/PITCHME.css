@@ -2,3 +2,8 @@
     border: 0;
     box-shadow: none;
 }
+
+.reveal section img[alt="hp"] {
+    width: 50%;
+    margin-top: -2em;
+}
