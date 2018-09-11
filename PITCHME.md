@@ -50,6 +50,8 @@ Note:
 - Tyle lat - wciąż nie wiem, jak coś zrobić
 - Dużo praktyki i cierpliwości
 - To zaowocuje - niesamowite efekty
+- Pokażemy Wam prawdziwe programowanie
+- Takie, jakiego używamy w pracy na co dzień
 
 ---?image=presentation/set_sails.jpg&size=70% auto
 @title[Zaczynamy]
@@ -179,13 +181,9 @@ Note:
 
 +++
 
-### Biblioteka
+### Biblioteka (library)
 
-+++
-
-#### TODO obrazek biblioteki tutaj
-
-### ???
+![Biblioteka](presentation/library.jpeg)
 
 Note:
 - co to jest biblioteka?
