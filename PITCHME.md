@@ -43,10 +43,9 @@ Note:
 
 +++
 
-#### HP Gif here
+![hp](https://media.giphy.com/media/RyLtUMBdogHvO/giphy.gif)
 
 Note:
-- TODO!
 - Tyle lat - wciąż nie wiem, jak coś zrobić
 - Dużo praktyki i cierpliwości
 - To zaowocuje - niesamowite efekty
