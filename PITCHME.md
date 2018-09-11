@@ -220,13 +220,21 @@ Note:
 
 +++
 
-### TODO obrazek funkcji z objaśnieniami
+### Funkcja - przykład
+
+```
+include image
+
+star(50, "solid", "red") 
+# ^ funkcja zwraca obrazek gwiazdy
+```
 
 +++
+@title[Przykładowe funkcje]
 
-#### Wymyślmy kilka 
+Wymyślmy kilka 
 
-#### przykładowych funkcji
+przykładowych funkcji!
 
 Note:
 - id
