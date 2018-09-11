@@ -42,6 +42,7 @@ Note:
 - wszystkie skojarzenia, pomysły, itd.
 
 +++
+@title[Magia]
 
 ![hp](https://media.giphy.com/media/RyLtUMBdogHvO/giphy.gif)
 
@@ -51,6 +52,7 @@ Note:
 - To zaowocuje - niesamowite efekty
 
 ---?image=presentation/set_sails.jpg&size=70% auto
+@title[Zaczynamy]
 
 ---?image=presentation/set_sails.jpg&size=70% auto
 
@@ -278,6 +280,7 @@ Note:
 #### Geometryczny Quiz
 
 +++
+@title[Koło]
 
 Koło
 
@@ -288,6 +291,7 @@ Koło
 @ulend
 
 +++
+@title[Trójkąt]
 
 Trójkąt
 
@@ -298,6 +302,7 @@ Trójkąt
 @ulend
 
 +++
+@title[Prostokąt]
 
 Prostokąt
 
@@ -308,6 +313,7 @@ Prostokąt
 @ulend
 
 +++
+@title[Kwadrat]
 
 Kwadrat
 
@@ -364,6 +370,7 @@ overlay(obrazek1, obrazek2)
 ### Obrazki z internetu
 
 +++
+@title[image-url]
 
 Funkcja `image-url` zwraca obrazek z internetu.
 
@@ -378,6 +385,7 @@ image-url("https://www.obrazki.com/obrazek.png")
 ```
 
 +++
+@title[scale]
 
 Funkcja `scale` zmienia (skaluje) rozmiar obrazka.
 
@@ -397,6 +405,7 @@ scale(0.5, circle(100, "solid", "green"))
 ```
 
 +++
+@title[Ninja Cat]
 
 Link do obrazka:
 
@@ -415,6 +424,7 @@ Link do obrazka:
 ### Obrazki obok siebie
 
 +++
+@title[beside]
 
 Funkcja `beside` układa 2 obrazki obok siebie.
 
@@ -439,6 +449,7 @@ beside(obrazek1, obrazek2)
 ### Obrazki nad sobą
 
 +++
+@title[above]
 
 Funkcja `above` układa 2 obrazki nad sobą.
 
@@ -463,6 +474,7 @@ above(obrazek1, obrazek2)
 ### Rysujemy flagi
 
 +++
+@title[Flagi]
 
 ![Japonia](presentation/japan.png)
 ![Francja](presentation/france.png)
