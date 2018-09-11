@@ -407,3 +407,26 @@ above(obrazek1, obrazek2)
 
 ![Niemcy](presentation/germany.png)
 ![Włochy](presentation/italy.png)
+
+---
+
+## Quiz
+
+Note:
+- TODO: Kahoot quiz!!
+
+---
+
+## Demo
+
+Note:
+- animacja
+- mapa skarbów
+- space invaders
+
+---
+
+## Pomyślnych wiatrów! :)
+@title[Pożegnanie]
+
+![Sunset](presentation/bye.png)
