@@ -135,8 +135,8 @@ Note:
 
 #### Podsumowanie
 
-- różne typy danych
-- znamy 2 typy danych:
+- istnieją różne typy danych
+- poznaliśmy 2 typy danych:
 
   - string, czyli napis
   - liczby
@@ -235,6 +235,16 @@ Note:
 - +1
 - String.reverse
 
++++
+
+### Podusmowanie
+
+- komputer ignoruje komentarze
+- komentarz jest dla programisty
+- biblioteki to zbiory funkcji
+- funkcja potrafi coś "zrobić", obliczyć
+- funkcja przyjmuje argumenty i zwraca wyniki
+
 ---
 
 ## Lekcja 3
@@ -243,6 +253,17 @@ Note:
 Note:
 - TODO dodać obrazek buga ;)
 - Otwórz L3.arr w przeglądarce!
+
++++
+
+### Podsumowanie
+#### Najczęstsze błędy (bugi):
+
+- brak nawiasu
+- brak przecinka
+- brak cudzysłowu
+- zły typ danych
+- zła liczba argumentów dla funkcji
 
 ---
 
@@ -297,6 +318,19 @@ Kwadrat
 
 @ulend
 
++++
+
+### Podsumowanie
+
+W bibliotece `image` znajduje się wiele przydatncy funkcji do rysowania:
+
+- circle
+- triangle
+- square
+- rectangle
+- text
+- and many more
+
 ---
 
 ## Lekcja 5
@@ -316,6 +350,14 @@ include image
 
 overlay(obrazek1, obrazek2)
 ```
+
++++
+
+### Podsumowanie
+
+- funkcja `overlay` przyjmuje dwa argumenty - obrazki
+- następnie nakłada te dwa obrazki na siebie
+- zwraca nowy obraz, który składa się z danych dwóch obrazków
 
 ---
 
@@ -361,6 +403,13 @@ Link do obrazka:
 
 [https://goo.gl/sGQheU](https://goo.gl/sGQheU)
 
++++ 
+
+### Podsumowanie
+
+- funkcja `image-url` zwraca obrazek pod danym adresem
+- funkcja `scale` zmienia rozmiar obrazka
+
 ---
 
 ## Lekcja 7
@@ -378,6 +427,13 @@ include image
 beside(obrazek1, obrazek2)
 ```
 
++++
+
+### Podsumowanie
+
+- funkcja `beside` przyjmuje 2 obrazki
+- zwraca nowy obrazek, na którym 2 obrazki są ułożone obok siebie
+
 ---
 
 ## Lekcja 8
@@ -394,6 +450,13 @@ include image
 
 above(obrazek1, obrazek2)
 ```
+
++++
+
+### Podsumowanie
+
+- funkcja `above` przyjmuje 2 obrazki
+- zwraca nowy obrazek, na którym 2 obrazki są ułożone nas
 
 ---
 
