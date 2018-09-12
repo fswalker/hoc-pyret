@@ -1,10 +1,14 @@
 # Kodowanie z piratami
+![State](presentation/pirate_ship_bw_small.jpg)
 
 +++
 
-## Ahoj! :)
+## Piracka załoga
 
-### Piracka załoga Relativity:
+![Relativity](presentation/rel.gif)
+
+## Ahoj! @fa[smile-o]
+
 
 Note:
 - Powitanie
