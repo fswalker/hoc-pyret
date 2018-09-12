@@ -73,3 +73,8 @@
     vertical-align: top;
     margin-top: 1em;
 }
+
+.reveal section img[alt="HiddenAda"] {
+    visibility: hidden;
+    position: absolute;
+}

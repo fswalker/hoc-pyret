@@ -537,50 +537,13 @@ Note:
 ---
 @transition[none]
 
-@snap[north title]
-<h2>Ada Lovelace</h2>
-@snapend
-
-@snap[west ada]
-![Ada](presentation/ada_lovelace.jpg)
-@snapend
-
-@snap[east bio]
-@ul
-- Żyła w XIX w.
-- Interesowała się poezją i matematyką
-- Była pierwszą programistką
-@ulend
-@snapend
-
----?image=presentation/ada_lovelace.jpg&position=25% 50%&size=auto 70%
-@transition[none]
-@title[Ada Lovelace]
-
-@snap[north title]
-<h3>Ada Lovelace</h3>
-@snapend
-
-@snap[east bio]
-
-@ul
-- Żyła w XIX w.
-- Interesowała się poezją i matematyką
-- Była pierwszą programistką
-@ulend
-
-@snapend
-
----
-@transition[none]
-
 <div class="endslide">
 
   <h2 class="">Ada Lovelace</h2>
 
   <div class="row">
 
-    ![Ada](https://gitpitch.com/pitchme/cdn/github/fswalker/hoc-pyret/presentation/F85D8D820D42E71EEC6A3F43BD80199B2EBE3017DE7D502F49FCF5564CECB0AAE84CCC55202A52B2F8F9B22EB10DCCEFFEF6489B7E1BEB10DBCE8855F5825D185AB7C28C82FB6DF4BCA9E7BEFECC65E885C53001E1CCDEEF9E102FCDA330F87A/presentation/ada_lovelace.jpg)
+    ![Ada](https://gitpitch.com/pitchme/cdn/github/fswalker/hoc-pyret/presentation/B4B4925F5458B2C0355A49D46A9116E082B812B567B4DB155F247EDF1F5689AEC898272F2AD1A3C9B5598B91352BBE7874918875EE71FBE1D080DAA7CB6E73CBFC84477B5C692DDB6B5725165DD1B004FF7B0C82747F1C4BF84D350A0B18282D/presentation/ada_lovelace.jpg)
 
     <ul class="bio">
       <li>Żyła w XIX w.</li>
@@ -591,6 +554,8 @@ Note:
   </div>
 
 </div>
+
+![HiddenAda](presentation/ada_lovelace.jpg)
 
 ---
 
