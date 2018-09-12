@@ -193,10 +193,11 @@ Note:
 - czyta i składa swoją pracę z różnych cytatów i fragmentów
 
 +++
+@title[image]
 
-Biblioteka do rysowania obrazków: `image`
+Biblioteka do rysowania obrazków: @css[orange](`image`)
 
-Trzeba rzucić zaklęcie: `include`
+Trzeba rzucić zaklęcie: @css[orange](`include`)
 
 Wtedy możemy korzystać z wszystkich funkcji w bibliotece:
 
@@ -333,13 +334,13 @@ Kwadrat
 
 ### Podsumowanie
 
-W bibliotece `image` znajduje się wiele przydatncy funkcji do rysowania:
+W bibliotece @css[orange](`image`) znajduje się wiele przydatncy funkcji do rysowania:
 
-- circle
-- triangle
-- square
-- rectangle
-- text
+- `circle`
+- `triangle`
+- `square`
+- `rectangle`
+- `text`
 - and many more
 
 ---
@@ -366,7 +367,7 @@ overlay(obrazek1, obrazek2)
 
 ### Podsumowanie
 
-- funkcja `overlay` przyjmuje dwa argumenty - obrazki
+- funkcja @css[orange](`overlay`) przyjmuje dwa argumenty - obrazki
 - następnie nakłada te dwa obrazki na siebie
 - zwraca nowy obraz, który składa się z danych dwóch obrazków
 
@@ -378,7 +379,7 @@ overlay(obrazek1, obrazek2)
 +++
 @title[image-url]
 
-Funkcja `image-url` zwraca obrazek z internetu.
+Funkcja @css[orange](`image-url`) zwraca obrazek z internetu.
 
 Trzeba jej podać adres obrazka,
 
@@ -393,7 +394,7 @@ image-url("https://www.obrazki.com/obrazek.png")
 +++
 @title[scale]
 
-Funkcja `scale` zmienia (skaluje) rozmiar obrazka.
+Funkcja @css[orange](`scale`) zmienia (skaluje) rozmiar obrazka.
 
 Przekazujemy jej dwa argumenty:
 
@@ -421,8 +422,8 @@ Link do obrazka:
 
 ### Podsumowanie
 
-- funkcja `image-url` zwraca obrazek pod danym adresem
-- funkcja `scale` zmienia rozmiar obrazka
+- funkcja @css[orange](`image-url`) zwraca obrazek pod danym adresem
+- funkcja @css[orange](`scale`) zmienia rozmiar obrazka
 
 ---
 
@@ -432,7 +433,7 @@ Link do obrazka:
 +++
 @title[beside]
 
-Funkcja `beside` układa 2 obrazki obok siebie.
+Funkcja @css[orange](`beside`) układa 2 obrazki obok siebie.
 
 Zwraca ułożone obrazki, jako nowy obrazek.
 
@@ -446,7 +447,7 @@ beside(obrazek1, obrazek2)
 
 ### Podsumowanie
 
-- funkcja `beside` przyjmuje 2 obrazki
+- funkcja @css[orange](`beside`) przyjmuje 2 obrazki
 - zwraca nowy obrazek, na którym 2 obrazki są ułożone obok siebie
 
 ---
@@ -457,7 +458,7 @@ beside(obrazek1, obrazek2)
 +++
 @title[above]
 
-Funkcja `above` układa 2 obrazki nad sobą.
+Funkcja @css[orange](`above`) układa 2 obrazki nad sobą.
 
 Zwraca ułożone obrazki, jako nowy obrazek.
 
@@ -471,7 +472,7 @@ above(obrazek1, obrazek2)
 
 ### Podsumowanie
 
-- funkcja `above` przyjmuje 2 obrazki
+- funkcja @css[orange](`above`) przyjmuje 2 obrazki
 - zwraca nowy obrazek, na którym 2 obrazki są ułożone nas
 
 ---
