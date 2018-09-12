@@ -291,6 +291,8 @@ Note:
 
 Koło
 
+![Koło](presentation/circle.png)
+
 @ul[shapes]
 
 - Circle
@@ -301,6 +303,8 @@ Koło
 @title[Trójkąt]
 
 Trójkąt
+
+![Trójkąt](presentation/triangle.png)
 
 @ul[shapes]
 
@@ -313,6 +317,8 @@ Trójkąt
 
 Prostokąt
 
+![Prostokąt](presentation/rectangle.png)
+
 @ul[shapes]
 
 - Rectangle
@@ -324,6 +330,8 @@ Prostokąt
 
 Kwadrat
 
+![Kwadrat](presentation/square.png)
+
 @ul[shapes]
 
 - Square
@@ -334,14 +342,14 @@ Kwadrat
 
 ### Podsumowanie
 
-W bibliotece @css[orange](`image`) znajduje się wiele przydatncy funkcji do rysowania:
+W bibliotece @css[orange](`image`) znajduje się wiele przydatnych funkcji do rysowania:
 
 - `circle`
 - `triangle`
 - `square`
 - `rectangle`
 - `text`
-- and many more
+- ...
 
 ---
 

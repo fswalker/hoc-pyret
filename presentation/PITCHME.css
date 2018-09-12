@@ -11,3 +11,8 @@
 .orange {
     color: #f8981d;
 }
+
+.shapes {
+    list-style: none;
+    margin: 0;
+}
