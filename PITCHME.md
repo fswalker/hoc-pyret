@@ -40,7 +40,24 @@ Note:
 
 ---
 
-### Co to jest *programowanie*?
+### Co to jest 
+
+<h3>
+  <span class="p">p</span>
+  <span class="r">r</span>
+  <span class="o">o</span>
+  <span class="g">g</span>
+  <span class="r">r</span>
+  <span class="a">a</span>
+  <span class="m">m</span>
+  <span class="o">o</span>
+  <span class="w">w</span>
+  <span class="a">a</span>
+  <span class="n">n</span>
+  <span class="i">i</span>
+  <span class="e">e</span>
+  <span>?</span>
+</h3>
 
 Note:
 - wszystkie skojarzenia, pomysły, itd.
