@@ -48,3 +48,28 @@
     color: #ff1493;
 }
 
+.ada img {
+    max-width: 300px;
+}
+
+.bio {
+    max-width: 50%;
+}
+
+.endslide {
+    display: flex;
+    flex-direction: column;
+}
+
+.endslide .row {
+    flex-direction: row;
+}
+
+.endslide .row img {
+    max-width: 300px;
+}
+
+.endslide .bio {
+    vertical-align: top;
+    margin-top: 1em;
+}
