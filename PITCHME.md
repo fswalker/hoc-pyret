@@ -536,7 +536,7 @@ Note:
 
 ---
 
-## Pomyślnych wiatrów! :)
+## Pomyślnych wiatrów! @fa[smile-o]
 @title[Pożegnanie]
 
 ![Sunset](presentation/bye.png)
