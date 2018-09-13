@@ -97,6 +97,7 @@ Edytor - [https://code.pyret.org](https://code.pyret.org)
 Note:
 - **otwórzmy przeglądarkę!!**
 - opis edytora
+- Google Drive - integracja
 - język angielski!
 - komunikaty błędów
 - załoga pomoże
