@@ -380,7 +380,7 @@ W bibliotece @css[orange](`image`) znajduje się wiele przydatnych funkcji do ry
 ### Łączymy obrazki
 
 Note:
-- TODO obrazek - klocki lego
+- klocki lego - przykład
 - Co zwracają funkcje circle, square, triangle, itp. ?
 - Poznamy funkcję, która łączy dwa obrazki w jeden, nowy obrazek
 
