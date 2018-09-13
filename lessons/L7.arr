@@ -11,7 +11,7 @@ beside(
 )
 
 # Poniżej nazwiemy rysunek oka: eye.
-# Czyli przypisaliśmy rysunek do stałej eye.
+# Czyli przypisaliśmy rysunek do zmiennej eye.
 eye =
   overlay(
     circle(20, "solid", "black"),
@@ -20,28 +20,42 @@ eye =
 
 # Zadanie 2
 # Narysuj dwoje oczu obok siebie.
+# Wykorzystaj zmienną eye.
 beside(
   eye,
   eye
 )
 
 # Zadanie 3
-# Spróbuj umieścić kwadrat o boku 30 pomiędzy oczy.
+# Spróbuj umieścić kwadrat o boku 30 pomiędzy jednym i drugim okiem.
 # Niestety funkcja beside potrafi zmieścić tylko 2 argumenty.
 # Co teraz?
-
-square-eye =
+eye-square =
   beside(
-    square(30, "solid", "black"),
-    eye
+    eye,
+    square(30, "solid", "black")
   )
 
 beside(
-  eye,
-  square-eye
+  eye-square,
+  eye
 )
 
 # Zadanie 4
-# Magiczna sztuczka: jak sprawić, aby obrazek stał się niewidzialny.
+# Magiczna sztuczka: jak sprawić, aby obrazek stał się niewidzialny?
 # Trzeba użyć specjalnego przezroczystego koloru: "transparent".
 # Zmień kolor kwadratu powyżej na "transparent".
+
+
+# Zadanie 5
+# Narysuj góry - minimum 3 szczyty.
+szczyt = triangle(50, "solid", "grey")
+
+gory =
+  beside(
+    szczyt,
+    beside(
+      szczyt,
+      szczyt
+    )
+  

@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css?family=Pirata+One');
+
+h1#kodowanie-nbsp-z, h1#piratami {
+    font-family: 'Pirata One', cursive;
+    font-weight: 400;
+    letter-spacing: 4px;
+}
+
+h1#kodowanie-nbsp-z {
+    margin-bottom: 0;
+}
+
+#do-dzie-a- {
+    margin-top: .5em;
+}
+
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}
+
+.reveal section img[alt="hp"] {
+    width: 50%;
+    margin-top: -2em;
+}
+
+.orange {
+    color: #f8981d;
+}
+
+.reveal .shapes {
+    list-style: none;
+    margin: 0;
+}
+
+.p {
+    color: #ffa500;
+}
+.r {
+    color: #da70d6
+}
+.o {
+    color: #00ff7f;
+}
+.g {
+    color: #9400d3;
+}
+.a {
+    color: #4682b4;
+} 
+.m {
+    color: #fa8072
+}
+.w {
+    color: #da70d6;
+}
+.n {
+    color: #ff0000;
+}
+.i {
+    color: #1e90ff;
+}
+.e {
+    color: #ff1493;
+}
+
+.endslide {
+    display: flex;
+    flex-direction: column;
+}
+
+.endslide .row {
+    flex-direction: row;
+}
+
+.endslide .row img {
+    max-width: 300px;
+}
+
+.endslide .bio {
+    margin-top: 1em;
+    max-width: 50%;
+    vertical-align: top;
+}

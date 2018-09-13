@@ -1,0 +1,3 @@
+logo : presentation/logos.png
+theme : white
+theme-override : presentation/PITCHME.css
