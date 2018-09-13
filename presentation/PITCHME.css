@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Pirata+One');
+
+h1#kodowanie-nbsp-z, h1#piratami {
+    font-family: 'Pirata One', cursive;
+    font-weight: 400;
+    letter-spacing: 4px;
+}
+
+h1#kodowanie-nbsp-z {
+    margin-bottom: 0;
+}
+
 .reveal section img {
     border: 0;
     box-shadow: none;
