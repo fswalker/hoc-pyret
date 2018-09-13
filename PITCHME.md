@@ -153,7 +153,7 @@ Note:
 1. Ile masz lat? Napisz liczbę.
 1. Jaki będzie wynik działania:
 
-   `23424234 * 345345345` ?
+   `1234 * 3456` ?
 1. &#42; Oblicz, ile sekund mieści się w godzinie?
 
 +++
@@ -503,7 +503,7 @@ above(obrazek1, obrazek2)
 ### Podsumowanie
 
 - funkcja @css[orange](`above`) przyjmuje 2 obrazki
-- zwraca nowy obrazek, na którym 2 obrazki są ułożone nas
+- zwraca nowy obrazek, na którym 2 obrazki są ułożone jeden nad drugim.
 
 ---
 
@@ -523,8 +523,11 @@ above(obrazek1, obrazek2)
 
 ## Quiz
 
-Note:
-- TODO: Kahoot quiz!!
+1. kahoot.it
+1. Wprowadź kod PIN
+1. Wpisz swoje imię (nick)
+
+### Do dzieła!
 
 ---
 
