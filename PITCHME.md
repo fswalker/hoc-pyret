@@ -528,10 +528,25 @@ above(obrazek1, obrazek2)
 
 +++
 
+### Ramka
+
+Funkcja @css[orange](`frame`) rysuje prostokątną ramkę wokół dowolnego obrazka.
+
+```
+include image
+
+frame(mojObrazek)
+```
+
++++
+
 ### Podsumowanie
 
 - funkcja @css[orange](`above`) przyjmuje 2 obrazki
-- zwraca nowy obrazek, na którym 2 obrazki są ułożone jeden nad drugim.
+
+  - zwraca nowy obrazek, na którym 2 obrazki są ułożone jeden nad drugim.
+
+- funkcja @css[orange](`frame`) rysuje prostokątną ramkę wokół obrazka.
 
 ---
 
