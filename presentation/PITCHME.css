@@ -10,6 +10,10 @@ h1#kodowanie-nbsp-z {
     margin-bottom: 0;
 }
 
+#do-dzie-a- {
+    margin-top: .5em;
+}
+
 .reveal section img {
     border: 0;
     box-shadow: none;
@@ -60,14 +64,6 @@ h1#kodowanie-nbsp-z {
     color: #ff1493;
 }
 
-.ada img {
-    max-width: 300px;
-}
-
-.bio {
-    max-width: 50%;
-}
-
 .endslide {
     display: flex;
     flex-direction: column;
@@ -82,11 +78,7 @@ h1#kodowanie-nbsp-z {
 }
 
 .endslide .bio {
-    vertical-align: top;
     margin-top: 1em;
-}
-
-.reveal section img[alt="HiddenAda"] {
-    visibility: hidden;
-    position: absolute;
+    max-width: 50%;
+    vertical-align: top;
 }

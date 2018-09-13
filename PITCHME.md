@@ -523,7 +523,7 @@ above(obrazek1, obrazek2)
 
 ## Quiz
 
-1. kahoot.it
+1. [kahoot.it](kahoot.it)
 1. Wprowadź kod PIN
 1. Wpisz swoje imię (nick)
 
@@ -547,7 +547,7 @@ Note:
 
   <div class="row">
 
-    ![Ada](https://gitpitch.com/pitchme/cdn/github/fswalker/hoc-pyret/presentation/B4B4925F5458B2C0355A49D46A9116E082B812B567B4DB155F247EDF1F5689AEC898272F2AD1A3C9B5598B91352BBE7874918875EE71FBE1D080DAA7CB6E73CBFC84477B5C692DDB6B5725165DD1B004FF7B0C82747F1C4BF84D350A0B18282D/presentation/ada_lovelace.jpg)
+    ![Ada](https://upload.wikimedia.org/wikipedia/commons/a/a4/Ada_Lovelace_portrait.jpg)
 
     <ul class="bio">
       <li>Żyła w XIX w.</li>
@@ -558,8 +558,6 @@ Note:
   </div>
 
 </div>
-
-![HiddenAda](presentation/ada_lovelace.jpg)
 
 ---
 
