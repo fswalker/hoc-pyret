@@ -476,10 +476,37 @@ beside(obrazek1, obrazek2)
 
 +++
 
+### Zmienne
+
+- są jak pudełko, do którego coś wkładamy
+- nadajemy pudełku nazwę
+- możemy potem wyciągnąć wartość z pudełka
+  i użyć jej w innym miejscu
+
++++
+
+### Zmienna - przykład
+
+```
+mojaZmienna = 7
+
+3 + mojaZmienna # Wynik to 10
+```
+
+Note:
+- zmienne przechowują nie tylko liczby
+- przechowują dowolne dane
+- nawet obrazki!
+
++++
+
 ### Podsumowanie
 
 - funkcja @css[orange](`beside`) przyjmuje 2 obrazki
-- zwraca nowy obrazek, na którym 2 obrazki są ułożone obok siebie
+
+  - zwraca nowy obrazek, na którym 2 obrazki są ułożone obok siebie
+
+- zmienne przechowują dowolne dane, żeby użyć ich w innych miejscach w programie
 
 ---
 
