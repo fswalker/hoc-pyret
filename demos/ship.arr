@@ -3,7 +3,7 @@
 include image
 include world
 
-SHIP = image-url("https://goo.gl/FKfucr")
+SHIP = image-url("https://github.com/fswalker/hoc-pyret/raw/master/demos/pirate_ship.png")
 SHIP-X-MOVE = 2
 
 WIDTH = 800

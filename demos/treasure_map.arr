@@ -11,7 +11,7 @@ data PirateMapGame:
   | pirateMapGame(pirate, treasure)
 end
 
-PIRATE = image-url("https://goo.gl/rnSXju")
+PIRATE = image-url("https://github.com/fswalker/hoc-pyret/raw/master/demos/pirate_girl.png")
 PIRATE-X-MOVE = 5
 PIRATE-Y-MOVE = 5
 TREASURE-THRESHOLD = 30
@@ -22,8 +22,8 @@ MARGIN = 50
 
 BLANK-SCENE = empty-scene(WIDTH, HEIGHT)
 
-PIRATE-MAP = image-url("https://goo.gl/bxdSs7")
-TREASURE = image-url("https://goo.gl/6NuYxp")
+PIRATE-MAP = image-url("https://github.com/fswalker/hoc-pyret/raw/master/demos/map.jpg")
+TREASURE = image-url("https://github.com/fswalker/hoc-pyret/raw/master/demos/treasure_chest.png")
 
 CROSS = overlay(
     overlay(
