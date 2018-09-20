@@ -606,3 +606,6 @@ Note:
 @title[Pożegnanie]
 
 ![Sunset](presentation/bye.png)
+
+Note:
+- *Zdjęcie!!!*
