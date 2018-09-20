@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Pirata+One');
 
-h1#kodowanie-nbsp-z, h1#piratami {
+h1#kodowanie-nbsp-z, h1#piratami, h2#pomy-lnych-wiatr-w-i-class-fa-fa-smile-o-aria-hidden-true-i- {
     font-family: 'Pirata One', cursive;
     font-weight: 400;
     letter-spacing: 4px;
@@ -20,8 +20,13 @@ h1#kodowanie-nbsp-z {
 }
 
 .reveal section img[alt="hp"] {
-    width: 50%;
+    width: 70%;
+    max-width: 800px;
     margin-top: -2em;
+}
+
+.reveal section img[alt="Sunset"] {
+    max-width: 70%;
 }
 
 .orange {
