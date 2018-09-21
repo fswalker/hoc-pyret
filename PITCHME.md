@@ -6,7 +6,7 @@
 
 ## Piracka załoga
 
-![Relativity](presentation/rel.gif)
+![Relativity](presentation/rel_title.png)
 
 ## Ahoj! @fa[smile-o]
 
@@ -22,10 +22,6 @@ Note:
 Note:
 - imię
 - ulubiony kolor
-
-+++
-
-## Niespodzianka!
 
 +++
 
@@ -75,10 +71,10 @@ Note:
 - Pokażemy Wam prawdziwe programowanie
 - Takie, jakiego używamy w pracy na co dzień
 
----?image=presentation/set_sails.jpg&size=70% auto
+---?image=presentation/set_sails.jpg&size=50% auto
 @title[Zaczynamy]
 
----?image=presentation/set_sails.jpg&size=70% auto
+---?image=presentation/set_sails.jpg&size=50% auto
 
 @transition[fade]
 
@@ -234,13 +230,12 @@ star
 
 ### Funkcja
 
-- magiczne pudełko/zwierzątko
-- trzeba je nakarmić
-- wtedy coś robi, albo daje rezultat (daj głos!)
-- przyjumje ściśle określone argumenty (jedzenie)
+- magiczne pudełko
+- trzeba do niego coś włożyć (argumenty)
+- wtedy coś robi, daje rezultat (np. obrazek)
 
 Note:
-- obrazek funkcji?
+- prezentacja pudełka
 
 +++
 
@@ -281,8 +276,11 @@ Note:
 ## Lekcja 3
 ### Szukamy bugów
 
+![Bug](presentation/bug.jpeg)
+
 Note:
-- TODO dodać obrazek buga ;)
+- Co to jest bug?
+- Kornik!!
 - Otwórz L3.arr w przeglądarce!
 
 +++
@@ -380,7 +378,7 @@ W bibliotece @css[orange](`image`) znajduje się wiele przydatnych funkcji do ry
 ### Łączymy obrazki
 
 Note:
-- klocki lego - przykład
+- **klocki lego** - przykład
 - Co zwracają funkcje circle, square, triangle, itp. ?
 - Poznamy funkcję, która łączy dwa obrazki w jeden, nowy obrazek
 
@@ -564,16 +562,6 @@ frame(mojObrazek)
 
 ---
 
-## Quiz
-
-1. [kahoot.it](kahoot.it)
-1. Wprowadź kod PIN
-1. Wpisz swoje imię (nick)
-
-### Do dzieła!
-
----
-
 ## Demo
 
 Note:
@@ -604,7 +592,20 @@ Note:
 
 ---
 
+## Quiz
+
+1. [kahoot.it](kahoot.it)
+1. Wprowadź kod PIN
+1. Wpisz swoje imię (nick)
+
+### Do dzieła!
+
+---
+
 ## Pomyślnych wiatrów! @fa[smile-o]
 @title[Pożegnanie]
 
 ![Sunset](presentation/bye.png)
+
+Note:
+- *Zdjęcie!!!*
